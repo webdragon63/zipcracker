@@ -4,8 +4,11 @@ At first you can easily create a wordlist using this tool with the help of keyst
 
 # Installation
 At first you need to install this tools
-1 `apt install john`
-2 `apt install crunch`
+ `apt install john`
+ `apt install crunch`
 After it you ca be able to proceed the next step
 ```shell
-git clone 
+git clone https://github.com/webdragon63/zipcracker.git
+cd zipcracker
+```
+To run this tool simply run this command `bash zipcracker.sh`
