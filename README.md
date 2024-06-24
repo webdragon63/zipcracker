@@ -10,3 +10,6 @@ git clone https://github.com/webdragon63/zipcracker.git
 cd zipcracker
 ```
 To run this tool simply run this command `bash zipcracker.sh`
+# Screenshots
+
+![Screenshot at 2024-06-24 17-55-55](https://github.com/webdragon63/zipcracker/assets/117004849/2393b41d-5be1-4611-b869-5a79eae89000)
