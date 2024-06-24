@@ -13,3 +13,5 @@ To run this tool simply run this command `bash zipcracker.sh`
 # Screenshots
 
 ![Screenshot at 2024-06-24 17-55-55](https://github.com/webdragon63/zipcracker/assets/117004849/2393b41d-5be1-4611-b869-5a79eae89000)
+![Screenshot at 2024-06-24 17-57-17](https://github.com/webdragon63/zipcracker/assets/117004849/8f245037-bf1b-47d4-a1dc-66fd788a93ec)
+![Screenshot at 2024-06-24 17-58-08](https://github.com/webdragon63/zipcracker/assets/117004849/936a15e6-b199-4fb3-9fd2-ea39ef89608a)
