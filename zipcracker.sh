@@ -23,7 +23,7 @@ esac
 read -p "Type the mimimum length of password ===>" min
 read -p "Type the maximum length of password ===>" max
 read -p "Set the keystrokes i.e 1234567890abcd!@#$%^&*===>" i
-read -p "Output path and name of the txt file ===>" O
+read -p "Give any name to save the wordlist and give the path where it to be saved  ===>" O
 crunch $min $max $i -o $O
 clear
 cat<< EOF
