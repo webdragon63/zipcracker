@@ -58,7 +58,6 @@ read -p "Plaese enter the following wordlist path ===>" Ppp
 
 john --wordlist=$Ppp $Pp		
 	
-esac
 
 
 
